@@ -1,0 +1,15 @@
+C:\CSChapters\ThirdChapter\bin\Debug\net6.0\ThirdChapter.exe
+C:\CSChapters\ThirdChapter\bin\Debug\net6.0\ThirdChapter.deps.json
+C:\CSChapters\ThirdChapter\bin\Debug\net6.0\ThirdChapter.runtimeconfig.json
+C:\CSChapters\ThirdChapter\bin\Debug\net6.0\ThirdChapter.dll
+C:\CSChapters\ThirdChapter\bin\Debug\net6.0\ThirdChapter.pdb
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.csproj.AssemblyReference.cache
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.AssemblyInfoInputs.cache
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.AssemblyInfo.cs
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.csproj.CoreCompileInputs.cache
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.dll
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\refint\ThirdChapter.dll
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.pdb
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ThirdChapter.genruntimeconfig.cache
+C:\CSChapters\ThirdChapter\obj\Debug\net6.0\ref\ThirdChapter.dll

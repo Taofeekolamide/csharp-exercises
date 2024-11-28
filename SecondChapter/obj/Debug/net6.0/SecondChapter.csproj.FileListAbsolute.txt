@@ -1,0 +1,15 @@
+C:\CSChapters\SecondChapter\bin\Debug\net6.0\SecondChapter.exe
+C:\CSChapters\SecondChapter\bin\Debug\net6.0\SecondChapter.deps.json
+C:\CSChapters\SecondChapter\bin\Debug\net6.0\SecondChapter.runtimeconfig.json
+C:\CSChapters\SecondChapter\bin\Debug\net6.0\SecondChapter.dll
+C:\CSChapters\SecondChapter\bin\Debug\net6.0\SecondChapter.pdb
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.csproj.AssemblyReference.cache
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.AssemblyInfoInputs.cache
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.AssemblyInfo.cs
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.csproj.CoreCompileInputs.cache
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.dll
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\refint\SecondChapter.dll
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.pdb
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\SecondChapter.genruntimeconfig.cache
+C:\CSChapters\SecondChapter\obj\Debug\net6.0\ref\SecondChapter.dll

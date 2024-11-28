@@ -1,0 +1,15 @@
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.csproj.AssemblyReference.cache
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.AssemblyInfoInputs.cache
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.AssemblyInfo.cs
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.csproj.CoreCompileInputs.cache
+C:\CSChapters\FirstChapter\bin\Debug\net6.0\FirstChapter.exe
+C:\CSChapters\FirstChapter\bin\Debug\net6.0\FirstChapter.deps.json
+C:\CSChapters\FirstChapter\bin\Debug\net6.0\FirstChapter.runtimeconfig.json
+C:\CSChapters\FirstChapter\bin\Debug\net6.0\FirstChapter.dll
+C:\CSChapters\FirstChapter\bin\Debug\net6.0\FirstChapter.pdb
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.dll
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\refint\FirstChapter.dll
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.pdb
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\FirstChapter.genruntimeconfig.cache
+C:\CSChapters\FirstChapter\obj\Debug\net6.0\ref\FirstChapter.dll
