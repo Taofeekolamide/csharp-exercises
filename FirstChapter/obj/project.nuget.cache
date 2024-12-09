@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ha5MYIvII5t0gkQMbq4o3R47ZAPeO9gRY0u5Pu3CQTerc8Hebar4svrBOww8COGSbR6nXvBVXUk2m+FGYbkPw==",
+  "dgSpecHash": "c06x9zbLMnM=",
   "success": true,
-  "projectFilePath": "C:\\CSChapters\\FirstChapter\\FirstChapter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\FirstChapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

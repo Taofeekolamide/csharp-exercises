@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSChapters\\FirstChapter\\FirstChapter.csproj": {}
+    "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\FirstChapter.csproj": {}
   },
   "projects": {
-    "C:\\CSChapters\\FirstChapter\\FirstChapter.csproj": {
+    "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\FirstChapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSChapters\\FirstChapter\\FirstChapter.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\FirstChapter.csproj",
         "projectName": "FirstChapter",
-        "projectPath": "C:\\CSChapters\\FirstChapter\\FirstChapter.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\CSChapters\\FirstChapter\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\FirstChapter.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\C#\\csharp-exercises\\FirstChapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -48,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
